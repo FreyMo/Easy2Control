@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy2Control", "Easy2Control\Easy2Control.csproj", "{2721D670-D242-4F87-AD2D-1AB71E7429B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easy2Control.Executable", "Easy2Control.Samples\Easy2Control.Samples.csproj", "{212C0EEE-24B9-419C-AA56-A6A4A48D7716}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2721D670-D242-4F87-AD2D-1AB71E7429B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2721D670-D242-4F87-AD2D-1AB71E7429B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2721D670-D242-4F87-AD2D-1AB71E7429B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2721D670-D242-4F87-AD2D-1AB71E7429B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{212C0EEE-24B9-419C-AA56-A6A4A48D7716}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{212C0EEE-24B9-419C-AA56-A6A4A48D7716}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{212C0EEE-24B9-419C-AA56-A6A4A48D7716}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{212C0EEE-24B9-419C-AA56-A6A4A48D7716}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {211F7CB3-B5CC-4DA4-B11C-DD9ADC7EB21A}
+	EndGlobalSection
+EndGlobal
